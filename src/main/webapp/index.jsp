@@ -1,5 +1,9 @@
 <html>
-<body>
-<h2>Hello World!</h2>
+<head><title>hello</title>
+</head>
+<body>hi am nikhil
+<p> welcome to india</p>
+
 </body>
 </html>
+
